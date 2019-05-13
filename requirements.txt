@@ -1,5 +1,0 @@
-holoviews=1.11
-datashader=0.6.8
-panel=0.3.1
-rise=0.4.1
-jupyter_latex_envs=1.4.4 
